@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contacts-uda/static/css/main.5f361e03.chunk.css",
+    "main.js": "/contacts-uda/static/js/main.8166afd7.chunk.js",
+    "main.js.map": "/contacts-uda/static/js/main.8166afd7.chunk.js.map",
+    "runtime-main.js": "/contacts-uda/static/js/runtime-main.d6e8b14e.js",
+    "runtime-main.js.map": "/contacts-uda/static/js/runtime-main.d6e8b14e.js.map",
+    "static/js/2.3b13692b.chunk.js": "/contacts-uda/static/js/2.3b13692b.chunk.js",
+    "static/js/2.3b13692b.chunk.js.map": "/contacts-uda/static/js/2.3b13692b.chunk.js.map",
+    "index.html": "/contacts-uda/index.html",
+    "precache-manifest.bc98c9fc70ec5f2e27247829278576e2.js": "/contacts-uda/precache-manifest.bc98c9fc70ec5f2e27247829278576e2.js",
+    "service-worker.js": "/contacts-uda/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/contacts-uda/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3b13692b.chunk.js.LICENSE.txt": "/contacts-uda/static/js/2.3b13692b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/contacts-uda/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6e8b14e.js",
+    "static/js/2.3b13692b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8166afd7.chunk.js"
+  ]
+}
