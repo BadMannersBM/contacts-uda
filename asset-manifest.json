@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/contacts-uda/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/contacts-uda/static/js/main.a4badae7.chunk.js",
-    "main.js.map": "/contacts-uda/static/js/main.a4badae7.chunk.js.map",
+    "main.js": "/contacts-uda/static/js/main.3ab5101d.chunk.js",
+    "main.js.map": "/contacts-uda/static/js/main.3ab5101d.chunk.js.map",
     "runtime-main.js": "/contacts-uda/static/js/runtime-main.d6e8b14e.js",
     "runtime-main.js.map": "/contacts-uda/static/js/runtime-main.d6e8b14e.js.map",
-    "static/js/2.b03c831f.chunk.js": "/contacts-uda/static/js/2.b03c831f.chunk.js",
-    "static/js/2.b03c831f.chunk.js.map": "/contacts-uda/static/js/2.b03c831f.chunk.js.map",
+    "static/js/2.0de2b6b3.chunk.js": "/contacts-uda/static/js/2.0de2b6b3.chunk.js",
+    "static/js/2.0de2b6b3.chunk.js.map": "/contacts-uda/static/js/2.0de2b6b3.chunk.js.map",
     "index.html": "/contacts-uda/index.html",
-    "precache-manifest.5f7e565b8829ef4503296d71ed7f6af0.js": "/contacts-uda/precache-manifest.5f7e565b8829ef4503296d71ed7f6af0.js",
+    "precache-manifest.d5fba7063f9a9191e69dedca0444e02f.js": "/contacts-uda/precache-manifest.d5fba7063f9a9191e69dedca0444e02f.js",
     "service-worker.js": "/contacts-uda/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/contacts-uda/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.b03c831f.chunk.js.LICENSE.txt": "/contacts-uda/static/js/2.b03c831f.chunk.js.LICENSE.txt"
+    "static/js/2.0de2b6b3.chunk.js.LICENSE.txt": "/contacts-uda/static/js/2.0de2b6b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6e8b14e.js",
-    "static/js/2.b03c831f.chunk.js",
+    "static/js/2.0de2b6b3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a4badae7.chunk.js"
+    "static/js/main.3ab5101d.chunk.js"
   ]
 }
