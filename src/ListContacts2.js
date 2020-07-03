@@ -1,11 +1,11 @@
-import React from 'react'
+import React, {Component} from 'react'
 
-function ListContacts(props)  {
-
+class ListContacts extends Component {
+  render(){
 //  console.log('Props', this.props)
     return(
       <ol className='contact-list'>
-      {props.contacts.map((contact) =>(
+      {this.props.contacts.map((contact) =>(
         <li key={contact.id} className='contact-list-item'>
         <div
         className='contact-avatar'
@@ -17,15 +17,14 @@ function ListContacts(props)  {
           <p>{contact.name}</p>
           <p>{contact.handle}</p>
         </div>
-        <button
-          onClick={() => props.onDeleteContact(contact)}
-          className='contact-remove'>
+        <button className='contact-remove'>
           Remove
-        </button>
+        </button>  
         </li>
       ))}
       </ol>
     )
   }
+}
 
 export default ListContacts;
