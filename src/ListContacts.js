@@ -38,7 +38,6 @@ class ListContacts extends Component {
           />
         </div>
         <ol className='contact-list'>
-        //{JSON.stringify(this.state)}
         {showingContacts.map((contact) => (
           <li key={contact.id} className='contact-list-item'>
           <div
